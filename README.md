@@ -1,4 +1,4 @@
-# Hello
+# Hello 👋
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/08257953-363b-4392-a5a4-79a609eb6627" />
 
@@ -12,9 +12,9 @@
 ## 🧑‍💻 Who Am I ?
 
 - ### 🧪 I'm exploring the intersection of AI, robotics, and automation.
-- ### 🎓 Bachelor of Biomedical/Electronic engineering, Kyunghee University<dr>_(2020.03 ~ 2025.02)_
-- ### 🧍‍♂️ HRI (Human-Robot Interaction) Lab -Electronics bachelor thesis<dr> _(2024.01 ~ 2024.06)_
-- ### 🧠 Neuroscience Lab - Biomedical bachelor thesis<dr> _(2024.09 ~ 2024.12)_
+- ### 🎓 Bachelor of Biomedical/Electronic engineering, Kyunghee University<br>_(2020.03 ~ 2025.02)_
+- ### 🧍‍♂️ HRI (Human-Robot Interaction) Lab -Electronics bachelor thesis<br> _(2024.01 ~ 2024.06)_
+- ### 🧠 Neuroscience Lab - Biomedical bachelor thesis<br> _(2024.09 ~ 2024.12)_
 
 &nbsp;
 
