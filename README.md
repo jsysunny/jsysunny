@@ -1,8 +1,8 @@
 # Hello
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/08257953-363b-4392-a5a4-79a609eb6627" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/08257953-363b-4392-a5a4-79a609eb6627" />
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/c7f0bf62-e303-4c84-a08c-4ac2c6bc5fb8" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c7f0bf62-e303-4c84-a08c-4ac2c6bc5fb8" />
 
 
 &nbsp;
