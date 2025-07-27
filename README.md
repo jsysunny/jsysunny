@@ -123,10 +123,10 @@
 ---
 
 ## ☎️ Contact
+▶️ **Youtube**: [youtube](https://www.youtube.com/channel/UCCijitKEXjesUswsxqFMVeA)
 
 📩 **Email**: [sunny011009.jsy@gmail.com](mailto:sunny011009.jsy@gmail.com)
 
 ### For Korean
 📩 **Email**: [sunny011009@naver.com](mailto:sunny011009@naver.com)
 
-▶️ **Youtube**: [youtube](https://www.youtube.com/channel/UCCijitKEXjesUswsxqFMVeA)
