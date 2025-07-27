@@ -124,7 +124,9 @@
 
 ## ☎️ Contact
 
-1. 📩 **Email**: [sunny011009.jsy@gmail.com](mailto:sunny011009.jsy@gmail.com)
+📩 **Email**: [sunny011009.jsy@gmail.com](mailto:sunny011009.jsy@gmail.com)
 
 ### For Korean
-2. 📩 **Email**: [sunny011009@naver.com](mailto:sunny011009@naver.com)
+📩 **Email**: [sunny011009@naver.com](mailto:sunny011009@naver.com)
+
+▶️ **Youtube**: [youtube](https://www.youtube.com/channel/UCCijitKEXjesUswsxqFMVeA)
