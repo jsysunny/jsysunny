@@ -15,7 +15,7 @@
 - ### 🎓 Bachelor of Biomedical/Electronic engineering, Kyunghee University<br>_(2020.03 ~ 2025.02)_
 - ### 🧍‍♂️ HRI (Human-Robot Interaction) Lab -Electronics bachelor thesis<br> _(2024.01 ~ 2024.06)_
 - ### 🧠 Neuroscience Lab - Biomedical bachelor thesis<br> _(2024.09 ~ 2024.12)_
-- ### 🦾 Doosan Robotics BootcCamp<br> _(2024.09 ~ 2024.12)_
+- ### 🦾 Doosan Robotics BootCamp<br> _(2024.09 ~ 2024.12)_
 
 &nbsp;
 
@@ -92,8 +92,14 @@
 
 ### Main Projects
 
-💊 **AI_Cobot_Automation(RAPPS)** : AI 비전 기반 약 조제 시스템 자동화  
+&nbsp;
+
+
+### 💊 **AI_Cobot_Automation(RAPPS)** : AI 비전 기반 약 조제 시스템 자동화  
 [🔗 Github Link ](https://github.com/jsysunny/AI_Cobot_Automation)
+
+
+&nbsp;
 
 
 &nbsp;
@@ -109,7 +115,7 @@
 
 ## ☎️ Contact
 
-1. 📩 **Email**: [sunny011009.jsy@gmail.com](sunny011009.jsy@gmail.com)
+1. 📩 **Email**: [sunny011009.jsy@gmail.com](mailto:sunny011009.jsy@gmail.com)
 
 ### For Korean
-2. 📩 **Email**: [sunny011009@naver.com](sunny011009@naver.com)
+2. 📩 **Email**: [sunny011009@naver.com](mailto:sunny011009@naver.com)
