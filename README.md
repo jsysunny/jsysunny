@@ -12,9 +12,9 @@
 ## 🧑‍💻 Who Am I ?
 
 - ### 🧪 I'm exploring the intersection of AI, robotics, and automation.
-- ### 🎓 Bachelor of Biomedical/Electronic engineering, Kyunghee University _(2020.03 ~ 2025.02)_
-- ### 🧍‍♂️ HRI (Human-Robot Interaction) Lab -Electronics bachelor thesis _(2024.01 ~ 2024.06)_
-- ### 🧠 Neuroscience Lab - Biomedical bachelor thesis _(2024.09 ~ 2024.12)_
+- ### 🎓 Bachelor of Biomedical/Electronic engineering, Kyunghee University<dr>_(2020.03 ~ 2025.02)_
+- ### 🧍‍♂️ HRI (Human-Robot Interaction) Lab -Electronics bachelor thesis<dr> _(2024.01 ~ 2024.06)_
+- ### 🧠 Neuroscience Lab - Biomedical bachelor thesis<dr> _(2024.09 ~ 2024.12)_
 
 &nbsp;
 
