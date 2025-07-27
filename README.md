@@ -92,36 +92,18 @@
 
 ### Main Projects
 
-🚑 **ARM 기반 간호 어시스턴트 로봇** 
-→ TurtleBot4를 활용한 병원 자율주행 약물 배송 및 환자 모니터링 자동화  
-[🔗 GitHub Link](https://github.com/hongha0704/arm_nursing_assistance)
+💊 **AI_Cobot_Automation(RAPPS)** : AI 비전 기반 약 조제 시스템 자동화  
+[🔗 Github Link ](https://github.com/jsysunny/AI_Cobot_Automation)
 
-💊 **AI_Cobot_Automation(RAPPS)**   
-→ AI 비전 기반 약 조제 시스템 자동화  
-[🔗 GitHub Link](https://github.com/jsysunny/AI_Cobot_Automation)
 
+&nbsp;
 
 ---
 
-### Additional Projects
+### Extra Projects
 
-🚗 **자율주행 ROKEYBOT (Real)** (2025.06)  
-[🔗 GitHub Link](https://github.com/hongha0704/autonomous_rokeybot_real)
 
-🚗 **자율주행 ROKEYBOT (Simulation)** (2025.06)  
-[🔗 GitHub Link](https://github.com/hongha0704/autonomous_rokeybot_sim)
-
-🌅 **Miracle Morning & Good Night** (2025.05)  
-→ 아침 루틴 자동화 및 스마트 조명 제어 시스템  
-[🔗 GitHub Link](https://github.com/hongha0704/miracle_morning_cobot)
-
-🥗 **AI 기반 샐러드 커스터마이징 시스템** (2024.11 ~ 2024.12)  
-→ 사용자 맞춤형 샐러드 자동 조립 로봇 시스템  
-[🔗 GitHub Link](https://github.com/hongha0704/vision_salad_plating)
-
-🕰️ **DIMMS (Do it Miracle Morning System)** (2023.06)  
-→ Atmega128 제어 기반 알람 및 루틴 자동화  
-[🔗 GitHub Link](https://github.com/hongha0704/dimms_project)
+&nbsp;
 
 ---
 
