@@ -54,11 +54,11 @@
       <td>PyTorch, TensorFlow, OpenCV, YOLO</td>
     </tr>
     <tr>
-      <td><b>Robotics & Simulation</b></td>
+      <td><b>Robotics</b></td>
       <td>ROS2, Doosan M0609 (Cobot), TurtleBot3, Lidar, Gazebo, SLAM, Navigation</td>
     </tr>
     <tr>
-      <td><b>Collaboration Tools</b></td>
+      <td><b>Communication Tools</b></td>
       <td>Slack, Notion</td>
     </tr>
   </tbody>
