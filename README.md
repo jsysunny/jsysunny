@@ -109,7 +109,7 @@
 
 &nbsp;
 
-### 🚗 **DigitalTwin_RealRAPPS(Rokey 휴게소)** : 차선 인식 및 아르코 마커 인식 자율주행
+### 🚗 **DigitalTwin_Real(Rokey 휴게소)** : 차선 인식 및 아르코 마커 인식 자율주행
 [🔗 Github Link ](https://github.com/jsysunny/DigitalTwin_Real)
 
 &nbsp;
