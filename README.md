@@ -11,10 +11,11 @@
 
 ## 🧑‍💻 Who Am I ?
 
-- ### 🧪 I'm exploring the intersection of AI, robotics, and automation.
+- ### 🤖 I'm exploring the intersection of AI, robotics, and automation.
 - ### 🎓 Bachelor of Biomedical/Electronic engineering, Kyunghee University<br>_(2020.03 ~ 2025.02)_
 - ### 🧍‍♂️ HRI (Human-Robot Interaction) Lab -Electronics bachelor thesis<br> _(2024.01 ~ 2024.06)_
 - ### 🧠 Neuroscience Lab - Biomedical bachelor thesis<br> _(2024.09 ~ 2024.12)_
+- ### 🦾 Doosan Robotics BootcCamp<br> _(2024.09 ~ 2024.12)_
 
 &nbsp;
 
@@ -91,17 +92,14 @@
 
 ### Main Projects
 
-🚑 **ARM 기반 간호 어시스턴트 로봇** (2025.06)  
+🚑 **ARM 기반 간호 어시스턴트 로봇** 
 → TurtleBot4를 활용한 병원 자율주행 약물 배송 및 환자 모니터링 자동화  
 [🔗 GitHub Link](https://github.com/hongha0704/arm_nursing_assistance)
 
-💊 **Rokey_Pharmacy** (2025.05)  
-→ AI 비전 기반 행동로봇 약 조제 시스템 자동화  
-[🔗 GitHub Link](https://github.com/hongha0704/rokey_pharmacy)
+💊 **AI_Cobot_Automation(RAPPS)**   
+→ AI 비전 기반 약 조제 시스템 자동화  
+[🔗 GitHub Link](https://github.com/jsysunny/AI_Cobot_Automation)
 
-🍦 **ARIS/STORAGE Project** (2024.07 ~ 2024.08)  
-→ AI 비전과 다중모듈 제어를 활용한 아이스크림 제조 및 서빙 자동화  
-[🔗 GitHub Link](https://github.com/hongha0704/ice_cream_cafe)
 
 ---
 
