@@ -91,22 +91,31 @@
 ## 📁 Projects
 
 ### Main Projects
-
-&nbsp;
-
-
 ### 💊 **AI_Cobot_Automation(RAPPS)** : AI 비전 기반 약 조제 시스템 자동화  
 [🔗 Github Link ](https://github.com/jsysunny/AI_Cobot_Automation)
 
-
 &nbsp;
 
+### 🅿️ **SlamNav(로봇 자동화 주차 시스템)** : SLAM 기반 실내 자율주행 및 주차 시스템 구현
+[🔗 Github Link ](https://github.com/jsysunny/SlamNav)
 
 &nbsp;
 
 ---
 
 ### Extra Projects
+### 🚗 **DigitalTwin_Simul(Rokey 휴게소)** : 휴게소 자율주행 로봇 시뮬레이션
+[🔗 Github Link ](https://github.com/jsysunny/DigitalTwin_Simul)
+
+&nbsp;
+
+### 🚗 **DigitalTwin_RealRAPPS(Rokey 휴게소)** : 차선 인식 및 아르코 마커 인식 자율주행
+[🔗 Github Link ](https://github.com/jsysunny/DigitalTwin_Real)
+
+&nbsp;
+
+### 🌅 **Cobot_Automation(미라클 모닝 앤 굿 나잇)** : 협동 로봇을 활용한 아침 루틴 및 저녁 루틴 자동화
+[🔗 Github Link ](https://github.com/jsysunny/Cobot_Automation)
 
 
 &nbsp;
