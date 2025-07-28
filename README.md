@@ -91,6 +91,12 @@
 ## 📁 Projects
 
 ### Main Projects
+
+### 🤖 EE_bachelor_thesis : Robotic Arm Control Using Deep Learning-Based Electrooculogram
+[🔗 Github Link ](https://github.com/jsysunny/EE_bachelor_thesis)
+
+&nbsp;
+
 ### 💊 **AI_Cobot_Automation(RAPPS)** : AI 비전 기반 약 조제 시스템 자동화  
 [🔗 Github Link ](https://github.com/jsysunny/AI_Cobot_Automation)
 
