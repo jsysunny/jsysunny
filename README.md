@@ -110,6 +110,11 @@
 ---
 
 ### Extra Projects
+### 🚑 BME_bachelor_thesis : Hospital system with self-driving Ambulance using Unity
+[🔗 Github Link ](https://github.com/jsysunny/BME_bachelor_thesis)
+
+&nbsp;
+
 ### 🚗 **DigitalTwin_Simul(Rokey 휴게소)** : 휴게소 자율주행 로봇 시뮬레이션
 [🔗 Github Link ](https://github.com/jsysunny/DigitalTwin_Simul)
 
