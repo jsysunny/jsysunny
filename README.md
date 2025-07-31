@@ -44,7 +44,7 @@
     </tr>
     <tr>
       <td><b>Sensors & Actuators</b></td>
-      <td>Ultrasonic Sensor, LCD, Servo Motor</td>
+      <td>Ultrasonic Sensor, LCD, Servo Motor...</td>
     </tr>
     <tr>
       <td><b>Circuit Design & Analysis</b></td>
