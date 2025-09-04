@@ -14,7 +14,7 @@
 - ### 🤖 I'm exploring the intersection of Embedded systems, AI, Robotics and Autonomous systems.
 - ### 🎓 Bachelor of Biomedical/Electronic engineering, Kyunghee University<br>_(2020.03 ~ 2025.02)_
 - ### 🧍‍♂️ HRI (Human-Robot Interaction) Lab -Electronics bachelor thesis<br> _(2024.01 ~ 2024.06)_
-- ### 🧠 Neuroscience Lab - Biomedical bachelor thesis<br> _(2024.09 ~ 2024.12)_
+- ### 🧠 BCI(Brain-Computer Interface) - Biomedical bachelor thesis<br> _(2024.09 ~ 2024.12)_
 - ### 🦾 Doosan Robotics BootCamp<br> _(2025.01 ~ 2025.07)_
 
 &nbsp;
