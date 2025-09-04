@@ -32,11 +32,11 @@
   <tbody>
     <tr>
       <td><b>Languages</b></td>
-      <td>Python, C, C++</td>
+      <td>Python, DRL, C, C++</td>
     </tr>
     <tr>
       <td><b>Operating Systems</b></td>
-      <td>Linux (Ubuntu)</td>
+      <td>Window, Linux (Ubuntu)</td>
     </tr>
     <tr>
       <td><b>Embedded Systems</b></td>
