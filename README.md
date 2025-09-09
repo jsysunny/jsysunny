@@ -93,10 +93,13 @@
 ### Main Projects
 
 ### 🤖 EE_bachelor_thesis : Robotic Arm Control Using Deep Learning-Based Electrooculogram
-[🔗 Github Link ](https://github.com/jsysunny/EE_bachelor_thesis)
+[🔗 Github Link Korean ](https://github.com/jsysunny/EE_bachelor_thesis)
 
 &nbsp;
+### 🤖 Applied_Electronic_Circuit: EMG measurement based Rehabilitation Completion Detector
+[🔗 Github Link Korean ](https://github.com/jsysunny/Applied_Electronic_Circuit_Lab)
 
+&nbsp;
 ### 🚑 BME_bachelor_thesis : Hospital system with self-driving Ambulance using Unity
 [🔗 Github Link ](https://github.com/jsysunny/BME_bachelor_thesis)
 
