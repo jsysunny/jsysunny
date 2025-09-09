@@ -96,7 +96,7 @@
 [🔗 Github Link Korean ](https://github.com/jsysunny/EE_bachelor_thesis)
 
 &nbsp;
-### 🤖 Applied_Electronic_Circuit: EMG measurement based Rehabilitation Completion Detector
+### 🤖 Applied_Electronic_Circuit: Rehabilitation Completion Detector Using EMG measurement
 [🔗 Github Link Korean ](https://github.com/jsysunny/Applied_Electronic_Circuit_Lab)
 
 &nbsp;
