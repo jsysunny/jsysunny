@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 Who Am I ?
 
-- ### 🤖 I'm exploring the intersection of Embedded systems, AI, Robotics and Autonomous systems.
+- ### 🤖 I'm exploring the intersection of Electronic Instrumentation, Embedded systems, Robotics.
 - ### 🎓 Bachelor of Biomedical/Electronic engineering, Kyunghee University<br>_(2020.03 ~ 2025.02)_
 - ### 🧍‍♂️ HRI (Human-Robot Interaction) Lab -Electronics bachelor thesis<br> _(2024.01 ~ 2024.06)_
 - ### 🧠 BCI(Brain-Computer Interface) - Biomedical bachelor thesis<br> _(2024.09 ~ 2024.12)_
