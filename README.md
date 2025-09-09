@@ -94,10 +94,12 @@
 
 ### 🤖 EE_bachelor_thesis : Robotic Arm Control Using Deep Learning-Based Electrooculogram
 [🔗 Github Link Korean ](https://github.com/jsysunny/EE_bachelor_thesis)
+[🔗 Github Link English ](https://github.com/jsysunny/EE_bachelor_thesis/En)
 
 &nbsp;
 ### 🤖 Applied_Electronic_Circuit: Rehabilitation Completion Detector Using EMG measurement
 [🔗 Github Link Korean ](https://github.com/jsysunny/Applied_Electronic_Circuit_Lab)
+[🔗 Github Link English ](https://github.com/jsysunny/Applied_Electronic_Circuit_Lab/En)
 
 &nbsp;
 ### 🚑 BME_bachelor_thesis : Hospital system with self-driving Ambulance using Unity
