@@ -94,6 +94,7 @@
 
 ### 🤖 EE_bachelor_thesis : Robotic Arm Control Using Deep Learning-Based Electrooculogram
 [🔗 Github Link Korean ](https://github.com/jsysunny/EE_bachelor_thesis)
+
 [🔗 Github Link English ](https://github.com/jsysunny/EE_bachelor_thesis-En)
 
 &nbsp;
